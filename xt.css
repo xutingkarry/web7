@@ -1,0 +1,176 @@
+*{
+	margin:0 auto;
+	padding:0;
+}
+.qq{
+	width:1200px;
+	height:30px;
+	background-color:#f4f4f4;
+}
+.p{
+	margin:0px;
+	line-height:30px;
+	font-size:7px;
+	height:30px;
+	width:430px;
+	color:#000000;
+	float:left;
+}
+.a{
+	margin:0px;
+	line-height:30px;
+	font-size:7px;
+	height:30px;
+	width:430px;
+	color:#000000;
+	float:right;
+}
+.a a{
+	text-decoration:none;
+	color:#000000;
+}
+.img{
+	width:1200px;
+	margin:0 auto;
+	height:140px;
+	background-color:#ffffff;
+	position:relative;
+}
+.img1{
+	float:left;
+	margin-right:200px;
+}
+.form{
+	line-height:100px;
+}
+.che{
+	width:160px;
+	height:50px;
+	border:1px solid #e3e3e3;
+	background-color:#f5f5f5;
+	float:right;
+	margin-top:25px;
+}
+.id{
+	margin-left:10px;
+	line-height:50px;
+	float:left;
+}
+.span{
+	margin-right: 10px;
+	line-height:50px;
+	float:right;
+}
+.red{
+	margin:0 auto;
+	width:1200px;
+	height:40px;
+	border-bottom:2px solid #e00304;
+	display:inline-block;
+	position:relative;
+
+ }
+ .red ul li{
+ 	display:inline-block;
+ 	height:30px;
+ 	width:130px;
+ 	text-align:center;
+ }
+ .red ul li:hover{
+ 	background-color:#fd0304;
+ 	color:#ffffff;
+ 	border-radius:3px;
+ }
+ .red ul li a{
+ 	font-size:20px;
+ 	text-decoration:none;
+ 	color:#414141;
+ }
+ .small{
+ 	margin:0 auto;
+ 	background-color:#fbfbfb;
+ 	width:1200px;
+ 	height:70px;
+ }
+ .big{
+ 	margin:0 auto;
+ 	width:1200px;
+ 	height:600px;
+ 	background-color:#fbfbfb;
+ }
+ .br{
+ 	width:180px;
+ 	height:600px;
+ 	float:left;
+ 	margin-left-color:#fbfbfb;
+ 	margin-right:5px;
+ }
+ .n{
+ 	background-color:#ffffff;
+ 	width:150px;
+ 	height:45px;
+ }
+.list{
+	width:150px;
+	height:555px;
+	background-color:#ffffff;
+}
+.list p a{
+	text-decoration:none;
+	color:#000000;
+}
+.list p a:hover{
+	color:#ff8074;
+}
+.li{
+	width:990px;
+	height:600px;
+	float:right;
+	background-color:#ffffff;
+}
+.li ul{
+	margin-bottom:10px;
+}
+.li ul li{
+	list-style-type:none;
+	display:inline-block;
+}
+.li ul li >div{
+	border:1px solid #dbdbdb;
+	width:240px;
+	height:280px;
+}
+.li ul li div p{
+	text-align:center;
+}
+ .color{
+	color:#a3a3a3;
+}
+.li ul li div div{
+	text-align:center;
+	width:110px;
+	height:150px;
+}
+.last{
+	margin:0 auto;
+	width:1200px;
+	height:250px;
+	background-color:#2e2e2e;
+}
+.ul{
+	width:1220px;
+} 
+.ul ul li{
+	display:inline-block;
+	width:240px;
+	height:30px;
+}
+.ul ul li a{
+	text-decoration:none;
+	color:#ffffff;
+	font-size:10px;
+}
+.lasttest{
+	text-align:center;
+	color:#656565;
+}
